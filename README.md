@@ -27,7 +27,7 @@ odin-landing-page/
 
 ## Image Sources and Credits
 
-The hero image used in this project is credited to [Ben Kolde](https://unsplash.com/@benkolde?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/white-and-black-laptop-bs2Ba7t69mM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+The hero image used in this project is credited to [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-using-macbook-pro-npxXWgQ33ZQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
 
 ## Acknowledgments
 
